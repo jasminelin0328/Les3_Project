@@ -18,7 +18,7 @@ Goal | Item | Link to Item
 Analysis R Script |  run_analysis.R |  [R Script Link](https://github.com/jasminelin0328/Les3_Project/blob/master/run_analysis.R)
 Tidy Data Set |  Clean Data Set |  [Data Set Link]
 Github Repo | Repo |  [Repo Link](https://github.com/jasminelin0328/Les3_Project)
-Cookbook | CodeBook.md |  [Repo Link]
+Cookbook | CodeBook.md |  [Repo Link](CodeBook.md)
 README | ReadingItNow |  [Repo Link](https://github.com/jasminelin0328/Les3_Project/edit/master/README.md)
 
 ## Contributors
