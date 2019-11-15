@@ -22,7 +22,7 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ## Please see the README.md for how the following instructions are implemented [README.md]
-()
+(https://github.com/jasminelin0328/Les3_Project/edit/master/README.md)
 ### 1. Merge the training and the test sets to create one data set.
 ### 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 ### 3. Uses descriptive activity names to name the activities in the data set
