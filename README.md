@@ -19,7 +19,7 @@ Analysis R Script |  run_analysis.R |  [R Script Link]
 Tidy Data Set |  Clean Data Set |  [Data Set Link]
 Github Repo | Repo |  [Repo Link]
 Cookbook | CodeBook.md |  [Repo Link]
-README | ReadingItNow |  [Repo Link]
+README | ReadingItNow |  [Repo Link](https://github.com/jasminelin0328/Les3_Project/edit/master/README.md)
 
 ## Contributors
 
